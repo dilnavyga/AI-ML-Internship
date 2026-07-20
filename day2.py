@@ -77,6 +77,7 @@ else:
 for i in range(1, 21):
     print(i) 
 
+ 
 #2. Print even numbers  
 
 for i in range(1, 21):

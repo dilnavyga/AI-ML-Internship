@@ -1,0 +1,5 @@
+Dilna,80
+Vyga,95
+Nandana,90
+Anu,70
+Theertha,85

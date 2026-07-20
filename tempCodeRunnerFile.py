@@ -1,0 +1,1 @@
+print(df.groupby("Department")["Salary"].mean())
